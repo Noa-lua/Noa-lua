@@ -3,8 +3,9 @@
 
 Skills: LUA
 
-- 🔭 I’m currently working on discord.gg/nightliferp 
-- 🌱 I’m currently learning JavaScript / HTML 
+- 🔭 Je travaille actuellement sur discord.gg/nightliferp 
+- 🌱 J'apprend : JavaScript / HTML 
+- 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noa-lua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg' alt='lua' height='40'>](https://www.lua.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://dsc.gg/nkdev)  
