@@ -1,7 +1,7 @@
 ![](https://imgur.com/aW8phxi.png)
 
 
-Skills: LUA
+Talents : LUA
 
 - 🔭 Je travaille actuellement sur discord.gg/nightliferp 
 - 🌱 J'apprend : JavaScript / HTML 
