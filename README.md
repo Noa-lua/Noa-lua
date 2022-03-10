@@ -3,7 +3,7 @@
 
 Talents : LUA
 
-- 🔭 Je travaille actuellement sur discord.gg/nightliferp 
+- 🔭 Je travaille actuellement sur Wrench (https://discord.com/oauth2/authorize?client_id=896407253463232512&permissions=1133584&scope=bot)
 - 🌱 J'apprend : JavaScript / HTML 
 - 
 
